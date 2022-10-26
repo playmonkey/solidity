@@ -34,6 +34,7 @@ Solidity Smart Contracts
   Other Great Resouces
   ====================
    1.  Jean Cvllr (smart contract enginner) - https://github.com/CJ42
+   2.  Ethereum smart contract testing guide - https://ethereum.org/en/developers/docs/smart-contracts/testing/
     
   Well known Vulns
   ================
