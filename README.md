@@ -35,6 +35,7 @@ Solidity Smart Contracts
   ====================
    1.  Jean Cvllr (smart contract enginner) - https://github.com/CJ42
    2.  Ethereum smart contract testing guide - https://ethereum.org/en/developers/docs/smart-contracts/testing/
+   3.  TovarishFin's Smart Contract Boilerplate - https://github.com/TovarishFin/smart-contract-boilerplate
     
   Well known Vulns
   ================
