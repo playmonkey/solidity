@@ -44,16 +44,7 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
    Dynamic testing is the process of testing smart contracts on (ideally) test networks by fuzzing contracts, passing out of bounds arguments etc. 
      1. rand tool 1
       
-    
-  Other Great Resouces
-  ====================
-   1.  Jean Cvllr (smart contract enginner) - https://github.com/CJ42
-   2.  Ethereum smart contract testing guide - https://ethereum.org/en/developers/docs/smart-contracts/testing/
-   3.  TovarishFin's Smart Contract Boilerplate - https://github.com/TovarishFin/smart-contract-boilerplate
-   4.  A must read plan by @0kage_eth for learning auditing skills - https://twitter.com/0kage_eth/status/1640795987152375808
-   5.  Blockchain, Solidity tutorial (32hrs of content, focus on your specific needs) - https://www.youtube.com/watch?v=gyMwXuJrbJQ
-
-
+ 
   Well known Vulns
   ================
    1. Reentracy
@@ -63,6 +54,16 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   ==================
    1. Bug bounties
    2. Formal verification of contracts - https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/
+    
+   
+  Other Great Resouces
+  ====================
+   1.  Jean Cvllr (smart contract enginner) - https://github.com/CJ42
+   2.  Ethereum smart contract testing guide - https://ethereum.org/en/developers/docs/smart-contracts/testing/
+   3.  TovarishFin's Smart Contract Boilerplate - https://github.com/TovarishFin/smart-contract-boilerplate
+   4.  A must read plan by @0kage_eth for learning auditing skills - https://twitter.com/0kage_eth/status/1640795987152375808
+   5.  Blockchain, Solidity tutorial (32hrs of content, focus on your specific needs) - https://www.youtube.com/watch?v=gyMwXuJrbJQ
+   6.  Merkle Trees in Blockchain (2mins and worth a watch!) - https://www.youtube.com/watch?v=fB41w3JcR7U
     
 
   Books
