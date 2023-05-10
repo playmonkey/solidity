@@ -2,8 +2,22 @@
 Smart contracts tutorials and info for learning essential auditing skills. 
 
 
-Solidity Smart Contracts
-========================
+Roadmap to Audit Solidity Smart Contracts
+=========================================
+
+NB: This roadmap is largely based on the roadmap by @0kage_eth. Massive thanks for the roadmap. You can find it here: https://twitter.com/0kage_eth/status/1640795987152375808
+
+Estimated time to build necessary skills is around 12-26weeks depending on your experience levels in each of the topics and time available.
+
+1. Understand EVM 
+2. Learn Solidity Concepts
+3. Learn Foundry
+4. Interact with Web3 protocols
+5. Master writing test cases
+6. Understand Security issues and read reports
+7. Practice CTF's
+
+
 
   IDE's
   =====
