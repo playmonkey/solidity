@@ -8,7 +8,7 @@ Solidity Smart Contracts
   IDE's
   =====
    1. Remix (great intro to smart contracts & testing) https://remix.ethereum.org
-   2. WebStorm
+   2. WebStorm (If you are a student, all the IDE's are free for non-commerical use)
    3. Visual Code
     
   Unit Testing/Deployment/Management Frameworks (Functional)
@@ -36,7 +36,9 @@ Solidity Smart Contracts
    1.  Jean Cvllr (smart contract enginner) - https://github.com/CJ42
    2.  Ethereum smart contract testing guide - https://ethereum.org/en/developers/docs/smart-contracts/testing/
    3.  TovarishFin's Smart Contract Boilerplate - https://github.com/TovarishFin/smart-contract-boilerplate
-    
+   4.  A must read plan by @0kage_eth for learning auditing skills - https://twitter.com/0kage_eth/status/1640795987152375808
+
+
   Well known Vulns
   ================
    1. Reentracy
