@@ -51,6 +51,7 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
    2.  Ethereum smart contract testing guide - https://ethereum.org/en/developers/docs/smart-contracts/testing/
    3.  TovarishFin's Smart Contract Boilerplate - https://github.com/TovarishFin/smart-contract-boilerplate
    4.  A must read plan by @0kage_eth for learning auditing skills - https://twitter.com/0kage_eth/status/1640795987152375808
+   5.  Blockchain, Solidity tutorial (32hrs of content, focus on your specific needs) - https://www.youtube.com/watch?v=gyMwXuJrbJQ
 
 
   Well known Vulns
