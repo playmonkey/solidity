@@ -1,5 +1,5 @@
 # Audting Solidity Contracts
-Smart contracts tutorials and info for learing auditing skills. 
+Smart contracts tutorials and info for learning essential auditing skills. 
 
 
 Solidity Smart Contracts
