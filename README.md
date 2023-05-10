@@ -5,7 +5,7 @@ Smart contracts tutorials and info for learning essential auditing skills.
 Roadmap to Audit Solidity Smart Contracts
 =========================================
 
-NB: This roadmap is largely based on the roadmap by @0kage_eth. Massive thanks for the roadmap. You can find it here: https://twitter.com/0kage_eth/status/1640795987152375808
+NB: This roadmap is largely based on the roadmap by @0kage_eth. Massive thanks for the roadmap! You can find it here: https://twitter.com/0kage_eth/status/1640795987152375808 (I believe by typing/writing it down will help in understanding/retaining core knowledge)
 
 Estimated time to build necessary skills is around 12-26weeks depending on your experience levels in each of the topics and time available.
 
