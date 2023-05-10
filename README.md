@@ -11,7 +11,7 @@ Solidity Smart Contracts
    2. WebStorm
    3. Visual Code
     
-  Unit Testing Frameworks (Functional)
+  Unit Testing/Deployment/Management Frameworks (Functional)
   ==================
    1. Truffle
    2. Hardhat
