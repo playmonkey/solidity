@@ -18,6 +18,13 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
 7. Practice CTF's
 
 
+  Learning Solidity
+  =================
+
+  These area great intro to blockchain and solidity by Patrick Collins. Don't rush and pace yourself over a few days or weeks and build up your knowledge and experience. 
+  1.  Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (0 - 6) - https://www.youtube.com/watch?v=umepbfKp5rI
+  2.  Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11) - https://www.youtube.com/watch?v=sas02qSFZ74
+
 
   IDE's
   =====
