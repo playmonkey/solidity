@@ -63,6 +63,11 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   ==================
    1. Bug bounties
    2. Formal verification of contracts - https://runtimeverification.com/blog/how-formal-verification-of-smart-contracts-works/
+
+  Bug Bounty Progammes
+  ====================
+
+  1. Immunefi Bug Bounty Platform - https://immunefi.com/
     
    
   Other Great Resouces
@@ -78,9 +83,9 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   Books
   =====
   
-  Before splashing out on expensive books, I normally buy older edtions of books for core information and as I progress purchase new books in specific   areas. 
+  Before splashing out on expensive books, I normally buy older edtions of books for core information and as I progress purchase new books in specific areas. 
   
-  1.  Mastering Blockchain - Second Edition: Distributed ledger technology, decentralisation and smart contracts explained. You should be able to pick    up a s/h copy from ebay for $7-8
+  1.  Mastering Blockchain - Second Edition: Distributed ledger technology, decentralisation and smart contracts explained. You should be able to pick up a s/h copy from ebay for $7-8
 
 
 
