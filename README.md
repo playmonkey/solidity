@@ -55,7 +55,59 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
       
  
   Well known Vulns
-  ================
+  ================  
+  
+  1. Reentrancy Attacks
+     This occurs when a contract calls an external function that can re-enter the original contract before the initial call is completed.
+     Use a checks-effects-interactions pattern, where state changes occur before external calls.
+     https://medium.com/coinmonks/reentrancy-exploit-ac5417086750
+
+  2. Integer Overflow and Underflow
+     These occur when arithmetic operations result in values exceeding the maximum or minimum representable by the data type.
+     Use the SafeMath library or Solidity 0.8+, which has built-in overflow and underflow checks.
+     https://faizannehal.medium.com/how-solidity-0-8-protect-against-integer-underflow-overflow-and-how-they-can-still-happen-7be22c4ab92f
+
+  3. Denial of Service (DoS) Attacks
+     These attacks aim to make a contract unavailable by consuming excessive resources or triggering infinite loops.
+     Avoid complex loops and recursive calls, and set appropriate gas limits.
+     https://docs.soliditylang.org/en/v0.8.21/
+
+  4. Front-running Attacks
+     Attackers observe pending transactions and submit their own transactions with higher gas fees to be executed before the original.
+     Use techniques like time-based locks or randomness to make it difficult for attackers to predict transaction order.
+     https://docs.soliditylang.org/
+
+  5. Access Control Vulnerabilities
+     These occur when unauthorized parties can access or modify contract data.
+     Implement proper access control mechanisms, such as ownership checks and role-based access control.
+     https://docs.soliditylang.org/
+
+  6. Timestamp Dependence
+     Relying on timestamps can be risky due to potential manipulation or inaccuracies.
+     Use block numbers or other deterministic values instead of timestamps.
+     https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/timestamp-dependence/
+
+  7. Unchecked External Calls
+     Failing to check the return value of external calls can lead to vulnerabilities.
+     Always check the return value of external calls and handle failures appropriately.
+     https://sm4rty.medium.com/unchecked-call-return-value-solidity-security-1-fe794a7cdb6f
+
+  8. Integer Divison by Zero
+     Dividing by zero can cause unexpected behavior or errors.
+     Check for division by zero before performing the operation.
+     https://docs.soliditylang.org/
+
+  9. Gas Limit Manipulation
+     Attackers can exploit vulnerabilities in gas limit calculations to drain funds or execute malicious code.
+     Set appropriate gas limits and carefully consider gas costs during development.
+     https://medium.com/valixconsulting/solidity-security-by-example-10-denial-of-service-with-gas-limit-346e87e2ef78
+
+  10. Reentrancy Attacks (Repeated)
+      This is a common vulnerability where a contract can be re-entered during a transaction, leading to unexpected behavior.
+      Use a checks-effects-interactions pattern or a reentrancy guard to prevent this.
+      https://medium.com/coinmonks/reentrancy-exploit-ac5417086750
+
+  
    1. Reentracy
    2. Buffer overflow/underflow
     
