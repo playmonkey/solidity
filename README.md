@@ -107,9 +107,6 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
       Use a checks-effects-interactions pattern or a reentrancy guard to prevent this.
       https://medium.com/coinmonks/reentrancy-exploit-ac5417086750
 
-  
-   1. Reentracy
-   2. Buffer overflow/underflow
     
   Securing Contracts
   ==================
