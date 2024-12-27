@@ -117,7 +117,8 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   ====================
 
   1. Immunefi Bug Bounty Platform - https://immunefi.com/
-    
+  2. Expert web3 bug bounty and crowdsourced audit platform  - https://hackenproof.com/
+  3. Ethereum Bug Bounties - https://ethereum.org/en/bug-bounty/ 
    
   Other Great Resouces
   ====================
