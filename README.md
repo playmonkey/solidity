@@ -27,6 +27,7 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   1. Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (0 - 6) - https://www.youtube.com/watch?v=umepbfKp5rI
   2. Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (7 - 11) - https://www.youtube.com/watch?v=sas02qSFZ74
   3. Learn to Code Blockchain DApps by Building Simple Games - https://cryptozombies.io/
+  4. Roadmap for Web3/Smart Contract Hacking | 2022 - https://sm4rty.medium.com/roadmap-for-web3-smart-contract-hacking-2022-229e4e1565f9
 
   IDE's
   =====
