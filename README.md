@@ -42,7 +42,7 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
    3. Hardhat
    4. Foundry - Foundry is a smart contract development toolchain.
         1.1 https://book.getfoundry.sh/
-   5. OpenZepplin
+   6. OpenZepplin
     
   Security Based Testing
   ======================
