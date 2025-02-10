@@ -37,11 +37,9 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
     
   Unit Testing/Deployment/Management Frameworks (Functional)
   ==================
-   1. Truffle - Truffle, The most comprehensive suite of tools for smart contract development
-      1.1 https://archive.trufflesuite.com/
+   1. Truffle - Truffle, The most comprehensive suite of tools for smart contract development https://archive.trufflesuite.com/
    3. Hardhat
-   4. Foundry - Foundry is a smart contract development toolchain.
-      1.1 https://book.getfoundry.sh/
+   4. Foundry - Foundry is a smart contract development toolchain. https://book.getfoundry.sh/
    6. OpenZepplin
     
   Security Based Testing
