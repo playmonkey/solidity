@@ -9,7 +9,7 @@ NB: This roadmap is largely based on the roadmap by @0kage_eth. Massive thanks f
 
 Estimated time to build necessary skills is around 12-26weeks depending on your experience levels in each of the topics and time available.
 
-1. Understand EVM 
+1. Understand the EVM 
 2. Learn Solidity Concepts
 3. Learn Foundry
 4. Interact with Web3 protocols
