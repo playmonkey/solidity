@@ -1,7 +1,6 @@
 # Audting Solidity Contracts
 Smart contracts tutorials and info for learning essential auditing skills. 
 
-
 Roadmap to Audit Solidity Smart Contracts
 =========================================
 
