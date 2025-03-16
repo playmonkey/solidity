@@ -16,7 +16,6 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
 6. Understand Security issues and read reports
 7. Practice CTF's
 
-
   Learning Solidity
   =================
 
@@ -54,7 +53,6 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
    Dynamic testing is the process of testing smart contracts on (ideally) test networks by fuzzing contracts, passing out of bounds arguments etc. 
      1. rand tool 1
       
- 
   Well known Vulns
   ================  
   
