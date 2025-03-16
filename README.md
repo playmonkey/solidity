@@ -33,6 +33,7 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
    2. WebStorm (If you are a student, all the IDE's are free for non-commerical use)
    3. Visual Code
    4. Codium Windsurf (Code Assistant with intelligence, def. worth taking a look.
+   5. Cursor AI IDE. May be an idea to test Windsurf/Cursor - https://www.cursor.com/en
     
   Unit Testing/Deployment/Management Frameworks (Functional)
   ==================
