@@ -27,8 +27,8 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   3. Learn to Code Blockchain DApps by Building Simple Games - https://cryptozombies.io/
   4. Roadmap for Web3/Smart Contract Hacking | 2022 - https://sm4rty.medium.com/roadmap-for-web3-smart-contract-hacking-2022-229e4e1565f9
 
-  IDE's
-  =====
+  Integrated Development Environments (IDE)
+  ===================================
    1. Remix (great intro to smart contracts & testing) https://remix.ethereum.org
    2. WebStorm (If you are a student, all the IDE's are free for non-commerical use)
    3. Visual Code
