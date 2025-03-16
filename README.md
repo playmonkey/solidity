@@ -29,6 +29,8 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
 
   Integrated Development Environments (IDE)
   ===================================
+  Cline v Windsurf v Cursor - Find the AI IDE best suited to your needs - https://gist.github.com/husniadil/193ced61d38cf84296ca7c7ecc8dccca
+  
    1. Remix (great intro to smart contracts & testing) https://remix.ethereum.org
    2. WebStorm (If you are a student, all the IDE's are free for non-commerical use)
    3. Visual Code
