@@ -137,7 +137,7 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
   
   Before splashing out on expensive books, I normally buy older edtions of books for core information and as I progress purchase new books in specific areas. 
   
-  1.  Mastering Blockchain - Second Edition: Distributed ledger technology, decentralisation and smart contracts explained. You should be able to pick up a s/h copy from ebay for $7-8
+  1.  Mastering Blockchain - Second Edition: Distributed ledger technology, decentralisation and smart contracts explained. You should be able to pick up a s/h copy from ebay for         $7-8
 
 
 
