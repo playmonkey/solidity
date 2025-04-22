@@ -58,6 +58,8 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
       
   Well known Vulns
   ================  
+
+  (See Smart Contract Security Basics: A Fun Guide to Bug Hunting for Beginners - https://jeetendrajoshi.com/smart-contract-security-basics/)
   
   1. Reentrancy Attacks
      This occurs when a contract calls an external function that can re-enter the original contract before the initial call is completed.
