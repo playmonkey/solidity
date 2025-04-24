@@ -46,6 +46,9 @@ Estimated time to build necessary skills is around 12-26weeks depending on your 
     
   Security Based Testing
   ======================
+
+  Take a quick look at this List of 113 Solidity Tools https://www.alchemy.com/dapps/top/solidity-tools
+  
    Static Testing Tools
     
    Static testing is the process of testing smart contracts via code inspection, looking for weaknesses in code potentially leading to exploits.
